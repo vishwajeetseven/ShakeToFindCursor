@@ -1,4 +1,4 @@
-# Shake Cursor for Windows
+# Shake to Find Cursor for Windows
 
 A lightweight, high-performance Windows utility that replicates the popular macOS **"Shake to Find"** cursor feature.
 
